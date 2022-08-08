@@ -9,7 +9,9 @@ In the NMR folder, here on Github, you will find the MATLAB functions for refere
 All NMR and LC-MS datasets and acquisition parameters can be found in Metabolomics Workbench (https://www.metabolomicsworkbench.org):
 
 LC-MS Study ID: ST002092
+
 NMR polar Study ID: ST002095
+
 NMR non-polar Study ID: ST002096 
 
 The data can be accessed directly via its Project DOI: http://dx.doi.org/10.21228/M82978.
