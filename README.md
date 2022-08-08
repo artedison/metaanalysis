@@ -1,6 +1,6 @@
 # metaanalysis
 
-########## NMR AND LC-MS SCRIPTS AND PROCESSING STEPS FOR META-ANALYSIS MANUSCRIPT ##########
+NMR AND LC-MS SCRIPTS AND PROCESSING STEPS FOR META-ANALYSIS MANUSCRIPT:
 
 Navigate to the either the LC-MS or NMR folder for processing steps on that instrument.
 In the NMR folder, here on Github, you will find the MATLAB functions for referencing alignment, baseline correction and peak picking.
@@ -13,7 +13,7 @@ NMR non-polar StudyID: ST002096
 
 The data can be accessed directly via its Project DOI: http://dx.doi.org/10.21228/M82978.
 
-########## QUALITY CONTROL SCRIPTS: ##########
+QUALITY CONTROL SCRIPTS:
 
 The scripts for feature filtering and elemental formula comparisons between SIRIUS and the LC-MS meta-analysis results are available on GitHub (https://github.com/McIntyre-Lab/papers/tree/master/shaver_metaanalysis_2022 ). 
 
