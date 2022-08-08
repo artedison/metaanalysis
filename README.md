@@ -3,6 +3,7 @@
 NMR AND LC-MS SCRIPTS AND PROCESSING STEPS FOR META-ANALYSIS MANUSCRIPT:
 
 Navigate to the LC-MS or NMR folder for processing steps on that instrument.
+
 In the NMR folder, here on Github, you will find the MATLAB functions for referencing alignment, baseline correction, and peak picking.
 
 All NMR and LC-MS datasets and acquisition parameters can be found in Metabolomics Workbench (https://www.metabolomicsworkbench.org):
