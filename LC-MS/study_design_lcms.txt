@@ -1,0 +1,148 @@
+Sample name	Raw file	Strain	Sample type	Batch	Set
+b1_aos_122	b1_aos_122.mzML	RB2011	sample	1	1
+b1_aos_127	b1_aos_127.mzML	CX11314	sample	1	1
+b1_aos_129	b1_aos_129.mzML	PD1074	sample	1	1
+b1_aos_142	b1_aos_142.mzML	CB4856	sample	1	1
+b1_aos_145	b1_aos_145.mzML	CB4856	sample	1	1
+b1_aos_149	b1_aos_149.mzML	PD1074	sample	1	1
+b1_aos_25	b1_aos_25.mzML	CX11314	sample	1	1
+b1_aos_27	b1_aos_27.mzML	PD1074	sample	1	1
+b1_aos_32	b1_aos_32.mzML	RB2011	sample	1	1
+b1_aos_43	b1_aos_43.mzML	PD1074	sample	1	1
+b1_aos_46	b1_aos_46.mzML	DL238	sample	1	1
+b1_aos_48	b1_aos_48.mzML	N2	sample	1	1
+b1_aos_50	b1_aos_50.mzML	DL238	sample	1	1
+b1_aos_54	b1_aos_54.mzML	PD1074	sample	1	1
+b1_aos_58	b1_aos_58.mzML	N2	sample	1	1
+b1_aos_65	b1_aos_65.mzML	DL238	sample	1	1
+b1_aos_67	b1_aos_67.mzML	N2	sample	1	1
+b1_aos_76	b1_aos_76.mzML	CX11314	sample	1	1
+b1_aos_78	b1_aos_78.mzML	PD1074	sample	1	1
+b1_pool_mutant_b1_01	b1_pool_mutant_b1_01.mzML		pool_mutant	1	1
+b1_pool_mutant_b1_02	b1_pool_mutant_b1_02.mzML		pool_mutant	1	1
+b1_pool_natural_b1_01	b1_pool_natural_b1_01.mzML		pool_natural	1	1
+b1_pool_natural_b1_02	b1_pool_natural_b1_02.mzML		pool_natural	1	1
+b1_pool_pd1074_b1_01	b1_pool_pd1074_b1_01.mzML		pool_pd1074	1	1
+b1_pool_pd1074_b1_02	b1_pool_pd1074_b1_02.mzML		pool_pd1074	1	1
+b2_aos_102	b2_aos_102.mzML	PD1074	sample	2	1
+b2_aos_103	b2_aos_103.mzML	CX11314	sample	2	1
+b2_aos_106	b2_aos_106.mzML	N2	sample	2	1
+b2_aos_107	b2_aos_107.mzML	PD1074	sample	2	1
+b2_aos_108	b2_aos_108.mzML	RB2011	sample	2	1
+b2_aos_124	b2_aos_124.mzML	PD1074	sample	2	1
+b2_aos_130	b2_aos_130.mzML	CB4856	sample	2	1
+b2_aos_165	b2_aos_165.mzML	DL238	sample	2	1
+b2_aos_167	b2_aos_167.mzML	PD1074	sample	2	1
+b2_aos_170	b2_aos_170.mzML	CB4856	sample	2	1
+b2_aos_173	b2_aos_173.mzML	RB2011	sample	2	1
+b2_aos_174	b2_aos_174.mzML	DL238	sample	2	1
+b2_aos_175	b2_aos_175.mzML	CX11314	sample	2	1
+b2_aos_188	b2_aos_188.mzML	PD1074	sample	2	1
+b2_aos_192	b2_aos_192.mzML	DL238	sample	2	1
+b2_aos_199	b2_aos_199.mzML	CX11314	sample	2	1
+b2_aos_200	b2_aos_200.mzML	PD1074	sample	2	1
+b2_aos_53	b2_aos_53.mzML	PD1074	sample	2	1
+b2_aos_56	b2_aos_56.mzML	N2	sample	2	1
+b2_pool_mutant_b2_01	b2_pool_mutant_b2_01.mzML		pool_mutant	2	1
+b2_pool_mutant_b2_02	b2_pool_mutant_b2_02.mzML		pool_mutant	2	1
+b2_pool_natural_b2_01	b2_pool_natural_b2_01.mzML		pool_natural	2	1
+b2_pool_natural_b2_02	b2_pool_natural_b2_02.mzML		pool_natural	2	1
+b2_pool_pd1074_b2_01	b2_pool_pd1074_b2_01.mzML		pool_pd1074	2	1
+b2_pool_pd1074_b2_02	b2_pool_pd1074_b2_02.mzML		pool_pd1074	2	1
+b3_aos_184	b3_aos_184.mzML	VC1265	sample	3	2
+b3_aos_185	b3_aos_185.mzML	PD1074	sample	3	2
+b3_aos_27	b3_aos_27.mzML	PD1074	sample	3	2
+b3_aos_28	b3_aos_28.mzML	KJ550	sample	3	2
+b3_aos_35	b3_aos_35.mzML	RB2550	sample	3	2
+b3_aos_36	b3_aos_36.mzML	RB2347	sample	3	2
+b3_aos_37	b3_aos_37.mzML	RB2347	sample	3	2
+b3_aos_38	b3_aos_38.mzML	PD1074	sample	3	2
+b3_aos_40	b3_aos_40.mzML	RB2550	sample	3	2
+b3_aos_42	b3_aos_42.mzML	VC1265	sample	3	2
+b3_aos_43	b3_aos_43.mzML	PD1074	sample	3	2
+b3_aos_54	b3_aos_54.mzML	PD1074	sample	3	2
+b3_aos_71	b3_aos_71.mzML	RB2550	sample	3	2
+b3_aos_74	b3_aos_74.mzML	RB2347	sample	3	2
+b3_aos_78	b3_aos_78.mzML	PD1074	sample	3	2
+b3_aos_86	b3_aos_86.mzML	KJ550	sample	3	2
+b3_aos_90	b3_aos_90.mzML	PD1074	sample	3	2
+b3_aos_98	b3_aos_98.mzML	VC1265	sample	3	2
+b3_aos_99	b3_aos_99.mzML	PD1074	sample	3	2
+b3_pool_mutant_b3_01	b3_pool_mutant_b3_01.mzML		pool_mutant	3	2
+b3_pool_mutant_b3_02	b3_pool_mutant_b3_02.mzML		pool_mutant	3	2
+b3_pool_pd1074_b3_01	b3_pool_pd1074_b3_01.mzML		pool_pd1074	3	2
+b3_pool_pd1074_b3_02	b3_pool_pd1074_b3_02.mzML		pool_pd1074	3	2
+b4_aos_100	b4_aos_100.mzML	KJ550	sample	4	2
+b4_aos_107	b4_aos_107.mzML	PD1074	sample	4	2
+b4_aos_109	b4_aos_109.mzML	KJ550	sample	4	2
+b4_aos_111	b4_aos_111.mzML	RB2550	sample	4	2
+b4_aos_116	b4_aos_116.mzML	RB2347	sample	4	2
+b4_aos_124	b4_aos_124.mzML	PD1074	sample	4	2
+b4_aos_125	b4_aos_125.mzML	VC1265	sample	4	2
+b4_aos_134	b4_aos_134.mzML	KJ550	sample	4	2
+b4_aos_140	b4_aos_140.mzML	PD1074	sample	4	2
+b4_aos_171	b4_aos_171.mzML	RB2347	sample	4	2
+b4_aos_180	b4_aos_180.mzML	PD1074	sample	4	2
+b4_aos_73	b4_aos_73.mzML	VC1265	sample	4	2
+b4_aos_81	b4_aos_81.mzML	RB2550	sample	4	2
+b4_aos_82	b4_aos_82.mzML	RB2347	sample	4	2
+b4_aos_84	b4_aos_84.mzML	VC1265	sample	4	2
+b4_aos_87	b4_aos_87.mzML	PD1074	sample	4	2
+b4_aos_92	b4_aos_92.mzML	PD1074	sample	4	2
+b4_aos_93	b4_aos_93.mzML	VC1265	sample	4	2
+b4_aos_95	b4_aos_95.mzML	RB2347	sample	4	2
+b4_aos_96	b4_aos_96.mzML	RB2550	sample	4	2
+b4_pool_mutant_b4_01	b4_pool_mutant_b4_01.mzML		pool_mutant	4	2
+b4_pool_mutant_b4_02	b4_pool_mutant_b4_02.mzML		pool_mutant	4	2
+b4_pool_pd1074_b4_01	b4_pool_pd1074_b4_01.mzML		pool_pd1074	4	2
+b4_pool_pd1074_b4_02	b4_pool_pd1074_b4_02.mzML		pool_pd1074	4	2
+b5_aos_179	b5_aos_179.mzML	VC2524	sample	5	3
+b5_aos_181	b5_aos_181.mzML	PD1074	sample	5	3
+b5_aos_187	b5_aos_187.mzML	VC2512	sample	5	3
+b5_aos_196	b5_aos_196.mzML	PD1074	sample	5	3
+b5_aos_26	b5_aos_26.mzML	RB2055	sample	5	3
+b5_aos_33	b5_aos_33.mzML	VC2512	sample	5	3
+b5_aos_39	b5_aos_39.mzML	RB2607	sample	5	3
+b5_aos_41	b5_aos_41.mzML	PD1074	sample	5	3
+b5_aos_43	b5_aos_43.mzML	PD1074	sample	5	3
+b5_aos_45	b5_aos_45.mzML	RB2055	sample	5	3
+b5_aos_47	b5_aos_47.mzML	VC2524	sample	5	3
+b5_aos_51	b5_aos_51.mzML	AUM2073	sample	5	3
+b5_aos_54	b5_aos_54.mzML	PD1074	sample	5	3
+b5_aos_66	b5_aos_66.mzML	VC2512	sample	5	3
+b5_aos_70	b5_aos_70.mzML	VC2524	sample	5	3
+b5_aos_75	b5_aos_75.mzML	PD1074	sample	5	3
+b5_aos_78	b5_aos_78.mzML	PD1074	sample	5	3
+b5_aos_79	b5_aos_79.mzML	AUM2073	sample	5	3
+b5_aos_83	b5_aos_83.mzML	RB2055	sample	5	3
+b5_aos_87	b5_aos_87.mzML	PD1074	sample	5	3
+b5_aos_91	b5_aos_91.mzML	AUM2073	sample	5	3
+b5_pool_mutant_b5_01	b5_pool_mutant_b5_01.mzML		pool_mutant	5	3
+b5_pool_mutant_b5_02	b5_pool_mutant_b5_02.mzML		pool_mutant	5	3
+b5_pool_pd1074_b5_01	b5_pool_pd1074_b5_01.mzML		pool_pd1074	5	3
+b5_pool_pd1074_b5_02	b5_pool_pd1074_b5_02.mzML		pool_pd1074	5	3
+b6_aos_101	b6_aos_101.mzML	RB2607	sample	6	3
+b6_aos_102	b6_aos_102.mzML	PD1074	sample	6	3
+b6_aos_105	b6_aos_105.mzML	VC2524	sample	6	3
+b6_aos_107	b6_aos_107.mzML	PD1074	sample	6	3
+b6_aos_114	b6_aos_114.mzML	RB2055	sample	6	3
+b6_aos_118	b6_aos_118.mzML	RB2055	sample	6	3
+b6_aos_120	b6_aos_120.mzML	AUM2073	sample	6	3
+b6_aos_133	b6_aos_133.mzML	RB2607	sample	6	3
+b6_aos_135	b6_aos_135.mzML	AUM2073	sample	6	3
+b6_aos_140	b6_aos_140.mzML	PD1074	sample	6	3
+b6_aos_166	b6_aos_166.mzML	RB2607	sample	6	3
+b6_aos_167	b6_aos_167.mzML	PD1074	sample	6	3
+b6_aos_169	b6_aos_169.mzML	AUM2073	sample	6	3
+b6_aos_186	b6_aos_186.mzML	RB2055	sample	6	3
+b6_aos_188	b6_aos_188.mzML	PD1074	sample	6	3
+b6_aos_193	b6_aos_193.mzML	VC2512	sample	6	3
+b6_aos_198	b6_aos_198.mzML	PD1074	sample	6	3
+b6_aos_85	b6_aos_85.mzML	VC2524	sample	6	3
+b6_aos_88	b6_aos_88.mzML	RB2607	sample	6	3
+b6_aos_90	b6_aos_90.mzML	PD1074	sample	6	3
+b6_aos_94	b6_aos_94.mzML	VC2524	sample	6	3
+b6_pool_mutant_b6_01	b6_pool_mutant_b6_01.mzML		pool_mutant	6	3
+b6_pool_mutant_b6_02	b6_pool_mutant_b6_02.mzML		pool_mutant	6	3
+b6_pool_pd1074_b6_01	b6_pool_pd1074_b6_01.mzML		pool_pd1074	6	3
+b6_pool_pd1074_b6_02	b6_pool_pd1074_b6_02.mzML		pool_pd1074	6	3
